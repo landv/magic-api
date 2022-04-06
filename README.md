@@ -1,3 +1,6 @@
+**前端代码直接跳转这个版本查看即可。**  
+https://github.com/landv/magic-api/tree/v1.7.5  
+
 <p align="center">
     <img src="https://www.ssssssss.org/images/logo-magic-api.png" width="256">
 </p>
